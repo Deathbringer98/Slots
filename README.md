@@ -47,8 +47,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Icons by [source of your icons].
-- Sounds from [source of your sounds].
+- Icons by emoji company
+- Sounds from https://pixabay.com/sound-effects/search/casino/
 
 ---
 
